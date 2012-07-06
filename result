@@ -1,0 +1,17 @@
+./instrumentor: file data/hello.ccinject complete!
+test hello
+bye
+Generate AST Files
+Inject Source Files
+Compile....
+Runing Target Program...
+Generate Report...
+Path Coverage Report
+ ==  ==  ==  ==  ==  ==  ==  == ==
+File Name: data/hello.cc
+Inject Lines: 37 38 53 55 58 60 61 65 66 68 71
+Execute Lines: 37 38 53 55 58 60 61 65 66 71
+Coverage Rate: 90.91%
+ ==  ==  ==  ==  ==  ==  ==  == ==
+Total Coverage Rate: 90.91%
+End

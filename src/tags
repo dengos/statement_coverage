@@ -1,0 +1,12 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+MAX_FILE_NAME	path_record.c	27;"	d	file:
+__close_path_record__	path_record.c	/^__close_path_record__ ( void )$/;"	f
+__do_path_record__	path_record.c	/^__do_path_record__ ( int source_file_id, int line_num )$/;"	f
+__open_path_record__	path_record.c	/^__open_path_record__ ( void )$/;"	f
+recorder	path_record.c	/^static set<pair<int, int> > recorder; $/;"	v	file:
+std	path_record.c	/^using namespace std; $/;"	v
